@@ -1,0 +1,12 @@
+name: biodogm
+title: BioDogma
+username: Florencia DeLillo
+account: Florencia DeLillo
+server: posit.cloud
+hostUrl: https://api.posit.cloud/v1
+appId: 9171732
+bundleId: 9317555
+url: https://posit.cloud/content/9171732
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
